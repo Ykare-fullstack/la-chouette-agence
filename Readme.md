@@ -2,7 +2,7 @@
 
 ## Optimisez un site web existant ##
 
-![laChouetteLogo](./img/la-chouette-agence.png)
+![laChouetteLogo](./img/logo.png)
 
 ### Compétences évaluées ###
 
@@ -12,6 +12,7 @@ En vous basant sur les critères d’évaluation du projet, définissez le statu
 
 - [ ] Non validé - Listez les critères non remplis  
 
+<br/>
 1. Écrire un code HTML et CSS maintenable
 
 - [X] Validé 
@@ -23,7 +24,7 @@ En vous basant sur les critères d’évaluation du projet, définissez le statu
 - [X] Aucune erreur au niveau du responsive n’a été introduite lorsque l'étudiant a amélioré le site.
 
  
-
+<br/>
 2. Assurer l'accessibilité d'un site web
 
 - [X] Validé
@@ -37,7 +38,7 @@ L’optimisation de l’accessibilité est pertinente si :
 - [X] La liste des implémentations fournies à [cette adresse](https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist) est complète.
 
  
-
+<br/>
 3. Optimiser le référencement d'un site web
 
 - [X] Validé 
@@ -51,7 +52,7 @@ L’optimisation du référencement est pertinente si :
 - [X] Le rapport d’optimisation montre les améliorations.
 
  
-
+<br/>
 4. Réaliser une recherche des bonnes pratiques en développement web
 
 - [X] Validé
@@ -67,7 +68,7 @@ Le rapport d’analyse est pertinent si :
 - [X] Les bonnes pratiques à adopter sont étayées par des sources fiables (documentation, articles de recherche…) 
 
  
-
+<br/>
 5. Optimiser la taille et la vitesse d’un site web
 
 - [X] Validé
@@ -79,7 +80,7 @@ Le rapport d’optimisation est pertinent si:
 - [X] Le rapport d’optimisation contient des données démontrant l’amélioration de la vitesse de chargement et/ou de la taille du site
 
  
-
+<br/>
 Livrable
 
 Points forts :
@@ -92,7 +93,7 @@ Les compétences sont complètement acquises
 
 Les réponses aux questions sont pertinentes 
 
-
+<br/>
 Soutenance
 
 Remarques :
@@ -110,7 +111,7 @@ English version :
 
 ## Optimize an existing website ##
 
-![laChouetteLogo](./img/la-chouette-agence.png)
+![laChouetteLogo](./img/logo.png)
 
 ### Evaluated skills ###
 
@@ -120,6 +121,7 @@ Based on the project evaluation criteria, define the level of acquisition of eac
 
 - [ ] Not validated - List all non-filled criteria 
 
+<br/>
 1. Write sustainable HTML and CSS code
 
 - [X] Validated
@@ -131,7 +133,7 @@ Based on the project evaluation criteria, define the level of acquisition of eac
 - [X] No introduced error when responsive screen size switch
 
  
-
+<br/>
 2. Insure website accessibility
 
 - [X] Validated
@@ -145,7 +147,7 @@ Accessibility improvements keep coherence if :
 - [X] List of all the implementations found [here](https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist) :
 
 
-
+<br/>
 3. Optimize website SEO
 
 - [X] Validated 
@@ -159,7 +161,7 @@ SEO improvements keeps coherence if :
 - [X] Final repport shows modifications.
 
  
-
+<br/>
 4. Search for web development good practices
 
 - [X] Validated
@@ -175,7 +177,7 @@ Final report keeps coherence if :
 - [X] Reliable sources are invoked for each recommendation
 
  
-
+<br/>
 5. Optimize a website response time
 
 - [X] Validated
@@ -187,7 +189,7 @@ Final repport keeps coherence if:
 - [X] Final repport contains data showing imprivements and recommendations regarding size and/or website speed
 
  
-
+<br/>
 Delivrable
 
 Strong points :
@@ -200,7 +202,7 @@ Skills related to SEO and Accessibility are completely acquired
 
 Answers to quesions are coherent
 
-
+<br/>
 Oral
 
 commentaries :
